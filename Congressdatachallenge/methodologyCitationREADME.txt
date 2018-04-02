@@ -1,4 +1,4 @@
-	Throughout US history, presidents and senators have worked together to create agreements and
+﻿	Throughout US history, presidents and senators have worked together to create agreements and
  accords on the international scale through treaties. “[The President] He shall have Power,
  by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of
  the Senators present concur; and he shall nominate, and by and with the Advice and Consent
@@ -24,3 +24,4 @@
  among with additional information, is accessible by hovering the cursor over the treaty bubble. 
 
  Contributors: Ilya Bronshtein, Carter Nielson, Alan Gomez-Tagle 
+https://docs.google.com/document/d/129FxBQP7zEPmbOACtasMv89YpTx5Hb-GvKGTvfwQf2A/edit
